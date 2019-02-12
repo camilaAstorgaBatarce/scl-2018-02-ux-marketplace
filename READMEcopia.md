@@ -58,6 +58,7 @@ Dentro de nuestro proceso de observación detectamos una serie de  desafíos que
 - No utiliza whatsapp para contactarse con sus clientas.
 - Dube contenido y mantiene contacto con sus clientes desde Instagram.
 - Su cuenta de Facebook contiene la misma información de Instagram.
+
 [Si quieres ver las preguntas que se realizaron en la entrevista haz click aquí](https://docs.google.com/document/d/1OrAI9CTvaG1guM6w99O6H248pq52V6W6CtiecCgCjx0/edit)
 
 Registro de la entrevista:
@@ -67,11 +68,20 @@ Registro de la entrevista:
 ##  Proceso de ideación
 A través de la metodología del **Design Thinking** llegamos al proceso de Ideación, aquí empieza el proceso de diseño y la generación de múltiples ideas, en donde recopilamos toda nuestra investigación y generamos una lista de ideas en notas post-it.
 
-![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/etapa-uno.png)
-El primer paso a tomar fue realizar una lista con todos los aprendizajes adquiridos en base a la investigación, desglosarlos según las categoría que abarca el proyecto.
+1) El primer paso a tomar fue realizar una lista con todos los aprendizajes adquiridos en base a la investigación, desglosarlos según las categoría que abarca el proyecto.
+
+![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/etauno.png)
+
+
 [Para poder ver en detalle sobre la primera etapa del proceso de ideación haz click aquí](https://trello.com/b/0mKdADM7/conclusiones-wenteruka)
 
+2) Posteriormente de haber categorizado y realizado el listado con los aprendizajes se seleccionaron los más relevantes para el proyecto y así desarrollar los insights, además de realizar una serie de preguntas o “How might we…”.
+
 ![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/insights.png)
+
+3) Finalmente llevamos a cabo un Brainstoming con dos  “How might we…” que se plantearon.
+
+![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/etapatres.png)
 
 ## Link
 [Link a Documentos Drive](https://drive.google.com/open?id=1OOGjopcCjXfA3CElWhwNsPkQTzDphgsD)
