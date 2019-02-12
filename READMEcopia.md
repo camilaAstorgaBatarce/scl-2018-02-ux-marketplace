@@ -59,10 +59,17 @@ Dentro de nuestro proceso de observación detectamos una serie de  desafíos que
 - Dube contenido y mantiene contacto con sus clientes desde Instagram.
 - Su cuenta de Facebook contiene la misma información de Instagram.
 [Si quieres ver las preguntas que se realizaron en la entrevista haz click aquí](https://docs.google.com/document/d/1OrAI9CTvaG1guM6w99O6H248pq52V6W6CtiecCgCjx0/edit)
+
+Registro de la entrevista:
 [Si quieres ver contenido audiovisual de la entrevista haz click aquí](https://drive.google.com/drive/folders/1Xjt_Uaa6t29lfOijQDwbrp6cFIYCvMxm)
 
 ***
 ##  Proceso de ideación
+A través de la metodología del **Design Thinking** llegamos al proceso de Ideación, aquí empieza el proceso de diseño y la generación de múltiples ideas, en donde recopilamos toda nuestra investigación y generamos una lista de ideas en notas post-it.
+
+![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/etapa-uno.png)
+El primer paso a tomar fue realizar una lista con todos los aprendizajes adquiridos en base a la investigación, desglosarlos según las categoría que abarca el proyecto.
+[Para poder ver en detalle sobre la primera etapa del proceso de ideación haz click aquí](https://trello.com/b/0mKdADM7/conclusiones-wenteruka)
 
 ![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/insights.png)
 
