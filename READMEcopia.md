@@ -86,6 +86,13 @@ Se realizó testeo del prototipo de baja fidelidad con una muestra de 5 usuarios
 
 **Objetivo del testeo**
 
+**Casos a estudiar**
+Se les pidio al usuario hacer algunas tareas
+
+1) Se le pidió al usuario que realizar una compra
+
+2) Se le dio la tarea de contactar a la tienda
+
 **Conclusiones del testeo**
 
 - Opción de volver al catálogo de todos los productos
@@ -103,6 +110,8 @@ Se realizó testeo del prototipo de alta fidelidad con una muestra de 4 usuarios
 
 **Objetivo del testeo**
 
+**Casos a estudiar**
+Se les pidio al usuario hacer algunas tareas para evaluar
 
 **Conclusiones del testeo**
 
