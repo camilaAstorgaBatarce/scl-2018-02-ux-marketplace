@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+  }
+  
+.types_product{
+  border-radius: 50%;
+  width: 185px;
+  height: 185px;
+}
+
+.container_footer{
+  background: #FAFAFA;
+  color: #757575;
+}
+
+.footer_logo{
+  height: 71px;
+}
+
+.navbar-toggler {
+  margin-top: 15px;
+}
+
+@media screen and (min-width: 992px) {
+  .navbar {
+      height: 100px;
+   }
+   .navbar-expand-md .navbar-collapse{
+     width: 100%;
+   }
+  .logo-wenteruka {
+    width: 450px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    padding-right: 75px;
+  }
+  #nav-left {
+    padding-left: 30px;
+  }
+}
