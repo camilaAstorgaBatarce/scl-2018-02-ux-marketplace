@@ -91,6 +91,16 @@ body{
 .img_insta{
   margin-bottom: 30px;
 }
+
+.introductory_text{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.result{
+  vertical-align: middle;
+}
+
 .logo_footer{
   width: 190px;
 }
