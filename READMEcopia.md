@@ -252,3 +252,5 @@ Link que lleva a todo el material recaudado durante este proyecto
 Link del video sobre la presentación de Loom
 
 [Link a Loom](https://www.useloom.com/share/23918bb1ace54bd588b4e3c702fef88b)
+
+[Link a las dos pantallas del sitio web ](https://camilaastorgabatarce.github.io/scl-2018-02-ux-marketplace/)
