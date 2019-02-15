@@ -92,11 +92,6 @@ body{
   margin-bottom: 30px;
 }
 
-.introductory_text{
-  padding-left: 50px;
-  padding-right: 50px;
-}
-
 .result{
   vertical-align: middle;
 }
@@ -124,4 +119,38 @@ body{
   #nav-left {
     padding-left: 30px;
   }
+}
+
+/* Pagina de categorias */
+.introductory_text{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.product_container{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.product_container .product_box{
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.product_container .product_box .product_stock{
+  position: absolute;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 30px 5px;
+  font-size:14px;
+  width: 80px;
+  height: 80px;
+  right:5px;
+  top: 5px;
+}
+.product_container .product_box .product_info{
+  margin-top:15px;
+}
+.product_container .product_box .product_info p{
+  margin-bottom: 2px;
 }
