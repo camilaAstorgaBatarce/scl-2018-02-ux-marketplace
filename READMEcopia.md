@@ -57,7 +57,7 @@ Realizamos un estudio de campo en el [Mercado Drugstore](https://www.facebook.co
 
 Empathy Map
 
-![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/mapadeempatia.png)
+![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/empathy-map.jpg)
 
 **User persona**
 
@@ -67,7 +67,7 @@ Con el fin de desarrollar una mejor experiencia de uso con la  página web, nos 
 
 **Costumer journey Map**
 
-![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/journey.png)
+![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/Journeymap.jpg)
 
 ##  Mercado
 
@@ -222,13 +222,15 @@ Problema: No se entiende bien en las secciones de la página cuando se realiza u
 
 **Versión dos**
 
-Problema: Otorgar un orden y espacio legible en cada acción de la página.
+![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/ver-dos.png)
+
+Problema: Se destacan ciertos elementos para mayor legibilidad para el usuario.
 
 [Ver videos de segundo testeo de alta fidelidad](https://drive.google.com/drive/folders/1e2nxGipgDz9lBDWKtRXaoqZT8vuJkKhQ?usp=sharing)
 
 ## Guía de estilo de diseño
 
-![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/diseño.jpg)
+![img](https://raw.githubusercontent.com/camilaAstorgaBatarce/scl-2018-02-ux-marketplace/master/img/diseñocolor.jpg)
 
 ## Conclusión
 
